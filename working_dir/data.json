@@ -1,0 +1,6 @@
+{
+  "data_path": "/home/finn/Fraunhofer/cfstudy/plugins/raw_data/datapoints2.CSV",
+  "explanation_path": "/home/finn/Fraunhofer/working_dir/plugins/raw_data/explanations.txt",
+  "target": "price_range",
+  "delimiter" : ";"
+}

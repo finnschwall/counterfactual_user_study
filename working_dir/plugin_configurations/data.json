@@ -1,0 +1,6 @@
+{
+  "data_path": "../plugins/raw_data/datapoints2.CSV",
+  "explanation_path": "../plugins/raw_data/explanations.txt",
+  "target": "price_range",
+  "delimiter" : ";"
+}
