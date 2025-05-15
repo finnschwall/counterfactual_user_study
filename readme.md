@@ -1,4 +1,4 @@
-<font size="7">Archive for counterfactual user study<br></font>
+# Archive for counterfactual user study
 
 Code to reproduce userstudy as laid out here (Link will be added upon publication ~autumn 2025)
 
@@ -23,12 +23,18 @@ What the settings mean can be understood by looking into the [counterfactual gen
 ![normal](./screenshots/mode_normal.png)
 ![no cfs](./screenshots/mode_normal_no_cfs_loaded.png)
 ![no dp](./screenshots/mode_normal_no_dp_loaded.png)
+## Random
+![normal](./screenshots/mode_random.png)
+![no cfs](./screenshots/mode_random_no_cf.png)
+## Static
+![normal](./screenshots/mode_static_cfs.png)
+![no cfs](./screenshots/mode_static_no_cfs.png)
 
 
-<font size="5">Original readme.md<br></font>
+# Original readme.md
 This is the readme of the [rixa](https://github.com/finnschwall/rixa) version used for the study
 
-<br><br><br>
+<br><br><br><br>
 <font size="5">Welcome to <b>RIXA</b><br>
 the site for all your
 "<b>R</b>eal t<b>I</b>me e<b>X</b>plainable <b>A</b>rtificial Intelligence" needs</font>
