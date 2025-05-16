@@ -8,7 +8,7 @@ Steps for reproduction:
 * open working_dir/plugins/data.py and change line 22 to your python bin. You can use this to find the correct path
 python3 -c "import sys;print(sys.path)"
 * cd working_dir
-* rixaserver update_db --rebuild
+* rixaserver migrate
 * rixaserver runserver
 * go to http://127.0.0.1:8000/de/dashboard/userstudy
 
